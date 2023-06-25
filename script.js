@@ -3,7 +3,7 @@ const horasElemento = document.getElementById("horas");
 const minutosElemento = document.getElementById("minutos");
 const segundosElemento = document.getElementById("segundos");
 
-const inicioCopa = "21 Nov 2022";
+const inicioCopa = "08 Jun 2026";
 
 function contagemRegressiva()
 {

@@ -1,1 +1,1 @@
-Contagem regressiva pra copa do mundo 2022 em JS
+Contagem regressiva pra copa do mundo 2026 em JS
